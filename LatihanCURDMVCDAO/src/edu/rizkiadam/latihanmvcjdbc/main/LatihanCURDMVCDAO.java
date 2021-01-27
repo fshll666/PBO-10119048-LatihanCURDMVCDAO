@@ -19,6 +19,9 @@ import javax.swing.SwingUtilities;
 /**
  *
  * @author SystemOs
+ * Nama  : Mochammad Faishal
+ * Kelas : IF-2 
+ * NIM   : 10119048
  */
 public class LatihanCURDMVCDAO {
 

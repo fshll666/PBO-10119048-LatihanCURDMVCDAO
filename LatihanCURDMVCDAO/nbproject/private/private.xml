@@ -3,17 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/model/PelangganModel.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/event/PelangganListener.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/model/TabelPelangganModel.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/services/PelangganDao.java</file>
             <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/main/LatihanCURDMVCDAO.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/view/PelangganView.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/controller/PelangganController.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/database/KingsBarberShopDatabase.java</file>
-            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/error/PelangganException.java</file>
             <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/java/sql/SqlException.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/event/PelangganListener.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/view/PelangganView.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/database/KingsBarberShopDatabase.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/riziadam/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/services/PelangganDao.java</file>
+            <file>file:/C:/Users/SystemOs/Documents/NetBeansProjects/LatihanCURDMVCDAO/src/edu/rizkiadam/latihanmvcjdbc/error/PelangganException.java</file>
         </group>
     </open-files>
 </project-private>

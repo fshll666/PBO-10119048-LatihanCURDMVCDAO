@@ -15,6 +15,9 @@ import java.sql.SQLException;
 /**
  *
  * @author SystemOs
+ * Nama  : Mochammad Faishal
+ * Kelas : IF-2 
+ * NIM   : 10119048
  */
 public class PelangganModel {
     private int id;

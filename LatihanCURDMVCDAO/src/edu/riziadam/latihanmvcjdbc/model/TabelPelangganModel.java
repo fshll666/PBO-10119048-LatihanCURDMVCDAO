@@ -13,6 +13,9 @@ import javax.swing.table.AbstractTableModel;
 /**
  *
  * @author SystemOs
+ * Nama  : Mochammad Faishal
+ * Kelas : IF-2 
+ * NIM   : 10119048
  */
 public class TabelPelangganModel extends AbstractTableModel{
     

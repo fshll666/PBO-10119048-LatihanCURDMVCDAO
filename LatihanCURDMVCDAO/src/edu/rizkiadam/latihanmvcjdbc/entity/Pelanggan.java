@@ -10,6 +10,9 @@ import java.util.Objects;
 /**
  *
  * @author SystemOs
+ * Nama  : Mochammad Faishal
+ * Kelas : IF-2 
+ * NIM   : 10119048
  */
 public class Pelanggan {
     private Integer id;
