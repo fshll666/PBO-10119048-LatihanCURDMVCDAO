@@ -5,8 +5,8 @@
  */
 package edu.rizkiadam.latihanmvcjdbc.controller;
 
-import edu.riziadam.latihanmvcjdbc.model.PelangganModel;
-import edu.riziadam.latihanmvcjdbc.view.PelangganView;
+import edu.rizkiadam.latihanmvcjdbc.model.PelangganModel;
+import edu.rizkiadam.latihanmvcjdbc.view.PelangganView;
 import javax.swing.JOptionPane;
 
 /**

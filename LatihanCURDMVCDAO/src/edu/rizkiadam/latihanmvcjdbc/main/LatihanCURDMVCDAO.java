@@ -5,7 +5,7 @@
  */
 package edu.rizkiadam.latihanmvcjdbc.main;
 
-import edu.riziadam.latihanmvcjdbc.view.MainViewPelanggan;
+import edu.rizkiadam.latihanmvcjdbc.view.MainViewPelanggan;
 import edu.rizkiadam.latihanmvcjdbc.database.KingsBarberShopDatabase;
 import edu.rizkiadam.latihanmvcjdbc.entity.Pelanggan;
 import edu.rizkiadam.latihanmvcjdbc.error.PelangganException;

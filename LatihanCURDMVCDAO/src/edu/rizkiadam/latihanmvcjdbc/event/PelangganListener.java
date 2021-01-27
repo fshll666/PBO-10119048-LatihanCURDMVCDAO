@@ -5,7 +5,7 @@
  */
 package edu.rizkiadam.latihanmvcjdbc.event;
 
-import edu.riziadam.latihanmvcjdbc.model.PelangganModel;
+import edu.rizkiadam.latihanmvcjdbc.model.PelangganModel;
 import edu.rizkiadam.latihanmvcjdbc.entity.Pelanggan;
 
 /**

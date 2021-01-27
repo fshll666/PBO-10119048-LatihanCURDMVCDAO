@@ -6,7 +6,7 @@
 package edu.rizkiadam.latihanmvcjdbc.database;
 
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
-import edu.riziadam.latihanmvcjdbc.impl.PelangganDaoImpl;
+import edu.rizkiadam.latihanmvcjdbc.impl.PelangganDaoImpl;
 import edu.rizkiadam.latihanmvcjdbc.services.PelangganDao;
 import java.sql.Connection;
 import java.sql.SQLException;
